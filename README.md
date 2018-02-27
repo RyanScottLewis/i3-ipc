@@ -24,7 +24,7 @@ See `examples/` directory for more usage examples.
 
 Inspired by [i3.cr by woodruffw](https://github.com/woodruffw/i3.cr).
 
-While woodruffw library is excellent, I couldn't figure out how to correctly subscribe to events.  
+While woodruffw's library is excellent, I couldn't figure out how to correctly subscribe to events.  
 These two libraries are nearly identical, they just communicate with the unix socket in fundementally
 different ways.
 
