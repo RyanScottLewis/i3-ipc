@@ -1,0 +1,9 @@
+name: i3-ipc
+version: 0.1.0
+
+authors:
+  - Ryan Scott Lewis <ryanscottlewis@gmail.com>
+
+crystal: 0.24.1
+
+license: MIT
