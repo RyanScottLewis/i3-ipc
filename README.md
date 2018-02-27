@@ -1,6 +1,6 @@
 # i3-ipc
 
-TODO: Write a description here
+A Crystal interface for I3 IPC.
 
 ## Installation
 
@@ -9,24 +9,20 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   i3-ipc:
-    github: [your-github-name]/i3-ipc
+    github: RyanScottLewis/i3-ipc
 ```
 
 ## Usage
 
 ```crystal
-require "i3-ipc"
+require "i3"
 ```
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+See `examples/` directory for more usage examples.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/i3-ipc/fork )
+1. Fork it ( https://github.com/RyanScottLewis/i3-ipc/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -34,4 +30,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Ryan Scott Lewis - creator, maintainer
+- [RyanScottLewis](https://github.com/RyanScottLewis) Ryan Scott Lewis - creator, maintainer
